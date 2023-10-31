@@ -1,0 +1,14 @@
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\bin\Debug\net7.0\RepasoQuery.exe
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\bin\Debug\net7.0\RepasoQuery.deps.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\bin\Debug\net7.0\RepasoQuery.runtimeconfig.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\bin\Debug\net7.0\RepasoQuery.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\bin\Debug\net7.0\RepasoQuery.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.AssemblyInfoInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.AssemblyInfo.cs
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.csproj.CoreCompileInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\refint\RepasoQuery.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\RepasoQuery.genruntimeconfig.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\RepasoQuery\obj\Debug\net7.0\ref\RepasoQuery.dll
