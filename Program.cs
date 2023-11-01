@@ -13,5 +13,11 @@ internal class Program
         qStudent.PrintData();
         System.Console.WriteLine();
         qStudent.PrintDataQuery();
+        System.Console.WriteLine();
+        qStudent.Pares();
+        System.Console.WriteLine();
+        /* qStudent.OrdenarStudents(); */
+        qStudent.InnerJoinStudent();
+
     }
 }
